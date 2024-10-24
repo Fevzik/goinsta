@@ -1,4 +1,4 @@
-module github.com/Davincible/goinsta/v3
+module github.com/Fevzik/goinsta
 
 go 1.18
 
